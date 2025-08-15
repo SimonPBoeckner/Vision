@@ -1,0 +1,7 @@
+{
+    "device_id": "raspi-1",
+    "server_ip": "192.168.4.90",
+    "apriltags_stream_port": "5000",
+    "capture_impl": "gstreamer",
+    "apriltags_enable": "True"
+}
